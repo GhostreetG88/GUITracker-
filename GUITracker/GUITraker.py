@@ -178,7 +178,7 @@ class HabitsWindow(tk.Toplevel):
         image = Image.open(image_path)
         photo = ImageTk.PhotoImage(image)
         image_label = tk.Label(self, image=photo)
-        image_label.image = photo  # Keepa reference to the image
+        image_label.image = photo  
         image_label.pack()
 
         self.exit_button = ExitButton(self)
