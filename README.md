@@ -1,0 +1,1 @@
+Habit Tracker is a GUI application designed to help you track and maintain your daily habits. With this application, add the habits you want to complete each day, easy to use and simple to understand. 
